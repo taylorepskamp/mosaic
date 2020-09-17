@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mosaic/static/css/main.e94dbae8.chunk.css",
+    "main.js": "/mosaic/static/js/main.033ff8a8.chunk.js",
+    "main.js.map": "/mosaic/static/js/main.033ff8a8.chunk.js.map",
+    "runtime-main.js": "/mosaic/static/js/runtime-main.ca2c39f4.js",
+    "runtime-main.js.map": "/mosaic/static/js/runtime-main.ca2c39f4.js.map",
+    "static/js/2.6029bb29.chunk.js": "/mosaic/static/js/2.6029bb29.chunk.js",
+    "static/js/2.6029bb29.chunk.js.map": "/mosaic/static/js/2.6029bb29.chunk.js.map",
+    "index.html": "/mosaic/index.html",
+    "precache-manifest.44db83f16f7e70f0296eca47b0860641.js": "/mosaic/precache-manifest.44db83f16f7e70f0296eca47b0860641.js",
+    "service-worker.js": "/mosaic/service-worker.js",
+    "static/css/main.e94dbae8.chunk.css.map": "/mosaic/static/css/main.e94dbae8.chunk.css.map",
+    "static/js/2.6029bb29.chunk.js.LICENSE.txt": "/mosaic/static/js/2.6029bb29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca2c39f4.js",
+    "static/js/2.6029bb29.chunk.js",
+    "static/css/main.e94dbae8.chunk.css",
+    "static/js/main.033ff8a8.chunk.js"
+  ]
+}
