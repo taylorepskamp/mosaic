@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mosaic/static/css/main.0f140a50.chunk.css",
-    "main.js": "/mosaic/static/js/main.dffcc30a.chunk.js",
-    "main.js.map": "/mosaic/static/js/main.dffcc30a.chunk.js.map",
+    "main.js": "/mosaic/static/js/main.96e1ca1c.chunk.js",
+    "main.js.map": "/mosaic/static/js/main.96e1ca1c.chunk.js.map",
     "runtime-main.js": "/mosaic/static/js/runtime-main.ca2c39f4.js",
     "runtime-main.js.map": "/mosaic/static/js/runtime-main.ca2c39f4.js.map",
     "static/js/2.2faa519b.chunk.js": "/mosaic/static/js/2.2faa519b.chunk.js",
     "static/js/2.2faa519b.chunk.js.map": "/mosaic/static/js/2.2faa519b.chunk.js.map",
     "index.html": "/mosaic/index.html",
-    "precache-manifest.9121a41a40f8fc0ee1e9b1c6bbab6858.js": "/mosaic/precache-manifest.9121a41a40f8fc0ee1e9b1c6bbab6858.js",
+    "precache-manifest.b85cc77779cfa12cbe5d7970e234be3b.js": "/mosaic/precache-manifest.b85cc77779cfa12cbe5d7970e234be3b.js",
     "service-worker.js": "/mosaic/service-worker.js",
     "static/css/main.0f140a50.chunk.css.map": "/mosaic/static/css/main.0f140a50.chunk.css.map",
     "static/js/2.2faa519b.chunk.js.LICENSE.txt": "/mosaic/static/js/2.2faa519b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca2c39f4.js",
     "static/js/2.2faa519b.chunk.js",
     "static/css/main.0f140a50.chunk.css",
-    "static/js/main.dffcc30a.chunk.js"
+    "static/js/main.96e1ca1c.chunk.js"
   ]
 }
